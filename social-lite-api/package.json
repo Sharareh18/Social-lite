@@ -1,5 +1,5 @@
 {
-  "name": "social-media-api",
+  "name": "social-lite-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
+     "moment": "^2.29.4",
     "mongoose": "^8.0.0"
   }
 }
+
