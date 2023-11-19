@@ -34,9 +34,7 @@ Demo video:
   Online Tutorials and Resources:
 
 -  What is MondoDB the Ultimate Guide : https://hevodata.com/learn/mongodb-compass/
-
 -  Query and Projection Operators: https://www.mongodb.com/docs/manual/reference/operator/query/
--  Database seeding in Node.js:  https://levelup.gitconnected.com/database-seeding-in-node-js-2b2eec5bfaa1
 -  Sub documents vs Mongoose population: https://stackoverflow.com/questions/38879681/sub-documents-vs-mongoose-population
 
 
