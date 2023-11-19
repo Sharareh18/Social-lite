@@ -20,10 +20,11 @@
   ## Usage
   
 Video link of app functionality:
+https://drive.google.com/file/d/1b9Fd3Uj5mmwbNuutifXOtcVKGYLok-8Y/view
 
 
 Demo video:
-<video src="The%20Hat%20Box.mp4" controls title="The Hat Box"></video>
+<video src="Social-lite-1.mp4" controls title="Title"></video>
 
   ## License
   This project is covered under the following license: MIT
@@ -32,12 +33,11 @@ Demo video:
   ## Credits
   Online Tutorials and Resources:
 
--  Sequelize v6 : https://sequelize.org/docs/v6/
+-  What is MondoDB the Ultimate Guide : https://hevodata.com/learn/mongodb-compass/
 
--  Async Function: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
+-  Query and Projection Operators: https://www.mongodb.com/docs/manual/reference/operator/query/
 -  Database seeding in Node.js:  https://levelup.gitconnected.com/database-seeding-in-node-js-2b2eec5bfaa1
--  Nodejs Sequelize Eager Loading Error: https://forum.freecodecamp.org/t/nodejs-sequelize-eager-loading-error/480312
--HTTP response status codes: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+-  Sub documents vs Mongoose population: https://stackoverflow.com/questions/38879681/sub-documents-vs-mongoose-population
 
 
 University of California Irvine Full Stack Development Bootcamp 2023 Resources:
